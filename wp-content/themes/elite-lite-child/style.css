@@ -1,0 +1,10 @@
+/*
+Theme Name:     elite-lite-child
+Template:       elite-lite
+*/
+
+@import url("../elite-lite/style.css");
+
+.header {
+	background: red;
+}
